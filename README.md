@@ -1,4 +1,4 @@
 # amazon-frontend
 This is my first project .
 <br>
-Cloning of amzon page using HTML and CSS
+Cloning of amazon page using HTML and CSS
